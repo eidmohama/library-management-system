@@ -5,6 +5,7 @@ It is designed to manage the main operations of a library, including members, bo
 The system supports **CRUD operations**, **JOIN queries**, and **Aggregation functions** for data analysis.
 
 Database Structure
+
 The database includes the following tables:
 1)	Members
 2)	Authors
