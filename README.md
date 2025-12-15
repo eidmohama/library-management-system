@@ -70,7 +70,8 @@ Use the following to test your queries:
 2)	join_queries.sql
 3)	aggregation_queries.sql
    
-Summary.
+Summary
+
 This project demonstrates a complete MySQL implementation of a Library Management System by way of database design, stored procedures, CRUD (Create, Read, Update, Delete) operations, join queries, and aggregation functions.
 
 What You Might Want to Improve in the Future
