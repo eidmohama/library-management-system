@@ -19,22 +19,21 @@ The database includes seven tables:
        6) Borrowings
 
        7) Payments.
-
-Member Management
-   1)	Add New Members
-      2)	List Members
-       3)	Update Member Details
-      4)	Remove Members  
+      Member Management
+1)	Add New Members
+2)	List Members
+3)	Update Member Details
+4)	Remove Members  
 
 Book Management
-   1.	Manage Book Inventory
-    2.	Track Number of Available Copies
-    3.	Store ISBN and Category Information
-     4.	Associate Books with Authors  
+1)	Manage Book Inventory
+2)	Track Number of Available Copies
+3)	Store ISBN and Category Information
+4)	Associate Books with Authors  
 
 Authors/Categories
    1) 	Store Author Profiles
-    2)	Categorise Books  
+    2)	Categories Books  
 
 Borrowing System
   1)	Track Borrowed Books
@@ -43,7 +42,8 @@ Borrowing System
 
 Payments
   1)	Track Fine Payments
-   2)	Store Date and Amount Of Fine Payments
+   2)	Store Date and Amount of Fine Payments
+
 
 
 
