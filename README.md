@@ -20,33 +20,32 @@ The database includes seven tables:
 
 7) Payments.
 
+Member Management
+1)	Add New Members
+2)	List Members
+3)	Update Member Details
+4)	Remove Members  
 
-Features
- Members Management
-1)	Add new members
-2)	View member list
-3)	Update member information
-4)	Delete member records
+Book Management
+1.	Manage Book Inventory
+2.	Track Number of Available Copies
+3.	Store ISBN and Category Information
+4.	Associate Books with Authors  
 
- Book Management
-1)	Manage book inventory
-2)	Track available copies
-3)	Store ISBN and category
-4)	Link books with authors
-   
- Authors & Categories
-1)	Store author profiles
-2)	Classify books into categories
-   
+Authors/Categories
+1)	Store Author Profiles
+2)	Categorise Books  
+
 Borrowing System
-1)	Track borrowed books
-2)	Store borrow/due dates
-3)	Mark returned books
+1)	Track Borrowed Books
+2)	Store Borrowed/Due Dates
+3)	Mark Books as Returned  
 
- Payments
- 
-1)	Track payments for fines
-2)	Date and amount records
+Payments
+1)	Track Fine Payments
+2)	Store Date and Amount Of Fine Payments
+
+
 
  Technologies Used
  
