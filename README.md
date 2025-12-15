@@ -56,31 +56,34 @@ Payments
 | SQL Tools | MySQL Workbench |
 | Hosting    | GitHub           |
 
+How to Use Your Project Files
+1)	create_schema_tables.sql: To make the database and tables
+2)	insert_sample_data.sql: To put in sample data
+3)	stored_procedures.sql: To create test data
+4)	crud_operations.sql: Use insert/select/update/delete
+5)	join_queries.sql: Examples of joins
+6)	aggregation_queries.sql: Count/sum/group by
 
- How to Use Your Project Files
-   1)	create_schema_tables.sql: To make the database and tables
-    2)	insert_sample_data.sql: To put in sample data
-    3)	stored_procedures.sql: To create test data
-    4)	crud_operations.sql: Use insert/select/update/delete
-     5)	join_queries.sql: Examples of joins
-     6)	aggregation_queries.sql: Count/sum/group by
 A few examples of your project files are: ER Diagrams, CRUD query results, and join queries.
 
- To Use the Files
-    Run create_schema_tables.sql
-    Run insert_sample_data.sql
-    Run stored_procedures.sql
-    Use the following to test your queries:
+To Use the Files
+1)	Run create_schema_tables.sql
+2)	Run insert_sample_data.sql
+3)	Run stored_procedures.sql
+Use the following to test your queries:
 1)	crud_operations.sql
 2)	join_queries.sql
 3)	aggregation_queries.sql
- Summary
+4)	
+Summary
 This project demonstrates a complete MySQL implementation of a Library Management System by way of database design, stored procedures, CRUD (Create, Read, Update, Delete) operations, join queries, and aggregation functions.
+
 What You Might Want to Improve in the Future
- Create a web interface (using PHP or Node.js)
- Create user login roles
- Create more advanced searches
- Create fine management automation
+
+Create a web interface (using PHP or Node.js)
+Create user login roles
+Create more advanced searches
+Create fine management automation
 
 
 
