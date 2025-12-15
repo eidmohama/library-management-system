@@ -19,7 +19,8 @@ The database includes seven tables:
        6) Borrowings
 
        7) Payments.
-      Member Management
+       
+Member Management
 1)	Add New Members
 2)	List Members
 3)	Update Member Details
