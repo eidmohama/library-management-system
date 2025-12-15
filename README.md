@@ -75,10 +75,10 @@ This project demonstrates a complete MySQL implementation of a Library Managemen
 
 What You Might Want to Improve in the Future
 
-Create a web interface (using PHP or Node.js)
-Create user login roles
-Create more advanced searches
-Create fine management automation
+1. Create a web interface (using PHP or Node.js)
+2. Create user login roles
+3. Create more advanced searches
+4. Create fine management automation
 
 
 
