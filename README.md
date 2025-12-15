@@ -1,20 +1,25 @@
-Library Management System (MySQL Project)
-
-This project implements a **Library & Book Borrowing Management System** using MySQL.
-It is designed to manage the main operations of a library, including members, books, authors, borrowing records, and payment tracking.
-The system supports **CRUD operations**, **JOIN queries**, and **Aggregation functions** for data analysis.
+** library_book borrowing management system **
+The library_book borrowing management system project were developed in MySQL for the purpose of managing various functions of a library. Those functions encompass membership, book inventories, authorship, borrowing history, and tracking payments associated with those elements.
+The MySQL-based application supports the following types of data manipulation CRUD operations for managing user-generated content and repository items JOIN Queries; and Aggregating Functions to analyze data in a variety of ways.
 
 Database Structure
 
-The database includes the following tables:
-1)	Members
-2)	Authors
-3)	Categories
-4)	Books
-5)	Book_Authors (Many-to-Many)
-6)	Borrowings
-7)	Payments
-All tables are linked using **Foreign Keys** to maintain data integrity.
+The database includes seven tables:
+
+1) Members
+
+2) Authors
+
+3) Categories
+
+4) Books
+
+5) Book_Authors (many to many relationship);
+
+6) Borrowings
+
+7) Payments.
+
 
 Features
  Members Management
