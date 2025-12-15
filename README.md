@@ -33,17 +33,17 @@ Book Management
 4)	Associate Books with Authors  
 
 Authors/Categories
-   1) 	Store Author Profiles
-    2)	Categories Books  
+ 1) 	Store Author Profiles
+ 2)	Categories Books  
 
 Borrowing System
-  1)	 Track Borrowed Books
-   2)  Store Borrowed/Due Dates
-    3)   Mark Books as Returned  
+1)	 Track Borrowed Books
+ 2)  Store Borrowed/Due Dates
+ 3)   Mark Books as Returned  
 
 Payments
-  1)	 Track Fine Payments
-   2)  Store Date and Amount of Fine Payments
+1)	 Track Fine Payments
+ 2)  Store Date and Amount of Fine Payments
 
 
 
