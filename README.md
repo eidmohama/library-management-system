@@ -27,7 +27,7 @@ Book Management
 4)	Associate Books with Authors  
 
 Authors/Categories
- 1) 	Store Author Profiles
+1) 	Store Author Profiles
  2)	Categories Books  
 
 Borrowing System
