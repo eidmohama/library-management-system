@@ -6,19 +6,13 @@ Database Structure
 
 The database includes seven tables:
 
-     1) Members
-
-      2) Authors
-
-      3) Categories
-
-       4) Books
- 
-       5) Book_Authors (many to many relationship);
- 
-       6) Borrowings
-
-       7) Payments.
+ 1) Members
+  2) Authors
+  3) Categories
+  4) Books
+  5) Book_Authors (many to many relationship); 
+  6) Borrowings
+ 7) Payments.
        
 Member Management
 1)	Add New Members
